@@ -21,6 +21,7 @@ eg: npnqrzl{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_5p5s5o36}
 
 Step3: Put ROT13 in recipe
 
-<img width="1594" height="745" alt="image" src="https://github.com/user-attachments/assets/cd74a609-15da-4233-84e8-fdaafee0317d" />
+<img width="1592" height="763" alt="image" src="https://github.com/user-attachments/assets/74e81c6f-942c-4e52-a34e-5f9a296c8a8f" />
+
 
 Step4: Final answer: academy{next_time_I'll_try_2_rounds_of_rot13_5c5f5b36}
